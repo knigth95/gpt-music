@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T03:45:58.190Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="AkoD26lK6vSZJL5hvvzY" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-03T03:47:23.192Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6DgZZXHw4OpSiGAJfCte" version="21.7.2" type="github">
   <diagram name="第 1 页" id="K3nBhqF5XBH1DPqpZTJw">
     <mxGraphModel dx="1705" dy="980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -150,9 +150,6 @@
             <mxPoint x="705" y="1681" as="sourcePoint" />
             <mxPoint x="616" y="1692" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ABgCbwGWkMkLVJ7Ljmly-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ABgCbwGWkMkLVJ7Ljmly-75" target="ABgCbwGWkMkLVJ7Ljmly-73">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ABgCbwGWkMkLVJ7Ljmly-75" value="响应结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="611" y="1691" width="93" height="41" as="geometry" />
