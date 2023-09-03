@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T06:11:10.195Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="avut7dIFghb239OLCZD1" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-03T06:15:30.714Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="I-gxj50FAWLeU1KEx_jG" version="21.7.2" type="github">
   <diagram name="第 1 页" id="K3nBhqF5XBH1DPqpZTJw">
     <mxGraphModel dx="1705" dy="980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -108,6 +108,21 @@
         </mxCell>
         <mxCell id="ABgCbwGWkMkLVJ7Ljmly-60" value="API调用请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="792" y="1687" width="93" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ABgCbwGWkMkLVJ7Ljmly-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;上下文窗口&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="539.19" y="1229.5" width="148" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ABgCbwGWkMkLVJ7Ljmly-63" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWw6c3BhY2U9InByZXNlcnZlIiB2aWV3Qm94PSIwIDAgNTAzLjM3OSA1MDMuMzc5IiBoZWlnaHQ9IjgwMHB4IiB3aWR0aD0iODAwcHgiIGlkPSJDYXBhXzEiIHZlcnNpb249IjEuMSIgZmlsbD0iIzAwMDAwMCI+JiN4YTs8Zz4mI3hhOwk8cGF0aCBkPSJNNDU4LjA5MSwxMjguMTE2djMyNi44NDJjMCwyNi42OTgtMjEuNzIzLDQ4LjQyMS00OC40MjIsNDguNDIxaC0yMjAuOTJjLTI2LjY5OSwwLTQ4LjQyMS0yMS43MjMtNDguNDIxLTQ4LjQyMVYyNDIuNDM5JiMxMDsmIzk7JiM5O2M2LjkwNywxLjE0OSwxMy45NTMsMS44OTQsMjEuMTg0LDEuODk0YzUuMTI4LDAsMTAuMTYxLTAuMzgxLDE1LjEzMi0wLjk2OXYyMTEuNTk0YzAsNi42NzMsNS40MjksMTIuMTA0LDEyLjEwNSwxMi4xMDRoMjIwLjkyJiMxMDsmIzk7JiM5O2M2LjY3NCwwLDEyLjEwNS01LjQzMiwxMi4xMDUtMTIuMTA0VjEyOC4xMTZjMC02LjY3Ni01LjQzMi0xMi4xMDUtMTIuMTA1LTEyLjEwNUgyODkuODM1YzAtMTIuNjI1LTEuODk3LTI0Ljc5My01LjI5Ny0zNi4zMTUmIzEwOyYjOTsmIzk7aDEyNS4xMzFDNDM2LjM2OCw3OS42OTUsNDU4LjA5MSwxMDEuNDE3LDQ1OC4wOTEsMTI4LjExNnogTTE1OS40OSwyMjguNDAxYy02Mi45NzMsMC0xMTQuMjAyLTUxLjIyOS0xMTQuMjAyLTExNC4xOTkmIzEwOyYjOTsmIzk7QzQ1LjI4OSw1MS4yMjksOTYuNTE3LDAsMTU5LjQ5LDBjNjIuOTcxLDAsMTE0LjIwMiw1MS4yMjksMTE0LjIwMiwxMTQuMjAyQzI3My42OTIsMTc3LjE3MiwyMjIuNDYxLDIyOC40MDEsMTU5LjQ5LDIyOC40MDF6JiMxMDsmIzk7JiM5OyBNMTU5LjQ5LDIwNC4xOWM0OS42MTgsMCw4OS45ODktNDAuMzY0LDg5Ljk4OS04OS45ODhjMC00OS42MjctNDAuMzY1LTg5Ljk5MS04OS45ODktODkuOTkxJiMxMDsmIzk7JiM5O2MtNDkuNjI2LDAtODkuOTkxLDQwLjM2NC04OS45OTEsODkuOTkxQzY5LjQ5OSwxNjMuODI2LDEwOS44NywyMDQuMTksMTU5LjQ5LDIwNC4xOXogTTIyNy45ODEsMTI2LjMwOCYjMTA7JiM5OyYjOTtjNi42ODIsMCwxMi4xMDUtNS40MjMsMTIuMTA1LTEyLjEwNXMtNS40MjMtMTIuMTA1LTEyLjEwNS0xMi4xMDVoLTU2LjM4NnYtNDcuNTJjMC02LjY4Mi01LjQyMy0xMi4xMDUtMTIuMTA1LTEyLjEwNSYjMTA7JiM5OyYjOTtzLTEyLjEwNSw1LjQyMy0xMi4xMDUsMTIuMTA1djU5LjYyNWMwLDYuNjgyLDUuNDIzLDEyLjEwNSwxMi4xMDUsMTIuMTA1SDIyNy45ODF6IE0zNjcuNjk3LDIyNC40NTZoLTEzMS4xNCYjMTA7JiM5OyYjOTtjLTYuNjgyLDAtMTIuMTA1LDUuNDIzLTEyLjEwNSwxMi4xMDVjMCw2LjY4Myw1LjQyMywxMi4xMDUsMTIuMTA1LDEyLjEwNWgxMzEuMTRjNi42ODUsMCwxMi4xMDUtNS40MjMsMTIuMTA1LTEyLjEwNSYjMTA7JiM5OyYjOTtDMzc5LjgwMywyMjkuODc5LDM3NC4zODIsMjI0LjQ1NiwzNjcuNjk3LDIyNC40NTZ6IE0zNjcuOTEsMjk3Ljg4NWgtMTMxLjE0Yy02LjY4MiwwLTEyLjEwNSw1LjQyLTEyLjEwNSwxMi4xMDUmIzEwOyYjOTsmIzk7czUuNDIzLDEyLjEwNSwxMi4xMDUsMTIuMTA1aDEzMS4xNGM2LjY4NSwwLDEyLjEwNC01LjQyLDEyLjEwNC0xMi4xMDVTMzc0LjYwMSwyOTcuODg1LDM2Ny45MSwyOTcuODg1eiBNMzY3LjkxLDM3NC4zNTNoLTEzMS4xNCYjMTA7JiM5OyYjOTtjLTYuNjgyLDAtMTIuMTA1LDUuNDI2LTEyLjEwNSwxMi4xMDVjMCw2LjY4NSw1LjQyMywxMi4xMDQsMTIuMTA1LDEyLjEwNGgxMzEuMTRjNi42ODUsMCwxMi4xMDQtNS40MiwxMi4xMDQtMTIuMTA0JiMxMDsmIzk7JiM5O0MzODAuMDE1LDM3OS43NzgsMzc0LjYwMSwzNzQuMzUzLDM2Ny45MSwzNzQuMzUzeiIvPiYjeGE7PC9nPiYjeGE7PC9zdmc+" vertex="1" parent="1">
+          <mxGeometry x="539.19" y="1238" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ABgCbwGWkMkLVJ7Ljmly-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#FFCC99;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="616.69" y="1297.5" as="sourcePoint" />
+            <mxPoint x="617.19" y="1357.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ABgCbwGWkMkLVJ7Ljmly-68" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;上下文支持&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="523" y="1297.5" width="102" height="29.63" as="geometry" />
         </mxCell>
         <mxCell id="ABgCbwGWkMkLVJ7Ljmly-72" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;指令推理模块&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530.5" y="1620" width="157.5" height="31" as="geometry" />
